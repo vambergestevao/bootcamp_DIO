@@ -1,7 +1,7 @@
 // nome, idade, número de telefone, cpf, endereço, recebe pensão
 // string = armazenar texto
 // number = armazenar números
-// boolean = armazenr valores lógicos
+// boolean = armazenar valores lógicos
 
 let nomePessoa = "Josicreide do Pythinho"
 let idade = 115
