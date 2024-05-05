@@ -1,5 +1,5 @@
 // Guardando coisas em Vetores (sempre começa por "0")
-let nomesPokemon = ["Pikachu" , "Charmander", "Bulbasaur"]
+let pokemon = ["Pikachu", "Charmander", "Bulbasaur"]
 
 //funções ou métodos
 pokemon.pop() // remove the last element
