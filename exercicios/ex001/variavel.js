@@ -1,9 +1,9 @@
 //saída
-console.log("Digita o nome do seu jogador")
+console.log("Digite o nome do jogador")
 
 //declara uma variável
-let nickname = "Maria mestra do Pikachu"
+let nickname = "Maria Mestra do Pikachu"
 
 //concantenando uma mensagem fixa + uma variável
 console.log("Bem vinda " + nickname)
-console.log(nickname + " entrou no servidor")
+console.log(nickname + " entrou no servidor!")
