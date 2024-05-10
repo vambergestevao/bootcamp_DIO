@@ -1,5 +1,6 @@
 let nome = "Steven"
+let xp = "Ascendente"
 
-
-
-console.log("O Herói de nome " + nome + " está no nível de ")
+if(xp >= 8001 <= 9000) {
+    console.log("O Herói de nome " + nome + " está no nível " + xp)
+}
